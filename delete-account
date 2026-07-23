@@ -1,0 +1,47 @@
+Eliminação de Conta e Dados — Damas Go
+
+A sua privacidade é extremamente importante para nós. Esta página descreve como pode solicitar a eliminação permanente da sua conta e dos dados associados na nossa aplicação Damas Go, desenvolvida por Studio Fa.
+
+---
+
+Como solicitar a eliminação da sua conta
+
+Oferecemos duas formas simples para apagar a sua conta e os seus dados:
+
+Método 1: Diretamente na Aplicação
+Se ainda tem a aplicação instalada no seu dispositivo:
+1. Abra a aplicação Damas Go.
+2. Aceda as Definições.
+3. Selecione a opção "Eliminar Conta".
+4. Confirme a sua decisão. A sua conta e dados serão eliminados de imediato.
+
+---
+
+Método 2: Por E-mail 
+Se já não tem a aplicação instalada, pode pedir a eliminação enviando-nos um e-mail:
+Enviar para: `suporte.studiofa@gmail.com`
+Assunto: Pedido de Eliminação de Conta — Damas Go
+Conteúdo: Indique o endereço de e-mail ou identificador associado à conta do Firebase que pretende eliminar.
+
+> Nota: Processamos os pedidos efetuados por e-mail no prazo máximo de 30 dias.
+
+---
+
+O que acontece aos seus dados?
+
+Quando solicita a eliminação da conta:
+
+🗑️ Dados que são permanentemente eliminados:
+Autenticação: O seu registo de utilizador (e-mail, palavra-passe encriptada) no Firebase Authentication.
+Dados de Perfil e Utilização: Todas as suas informações guardadas na nossa base de dados, tais como preferências, nome de utilizador e histórico.
+Ficheiros:** Fotos de perfil ou documentos associados à sua conta guardados no Firebase Cloud Storage.
+
+🔒 Dados que podem ser temporariamente mantidos:
+Registos de Segurança e Erros: Quaisquer registos genéricos de diagnósticos não associados à sua identidade direta podem ser retidos por até 90 dias para efeitos de melhoria técnica da aplicação, sendo eliminados automaticamente após esse período.
+
+
+---
+
+Contacto
+Se tiver alguma dúvida sobre a eliminação dos seus dados ou sobre a nossa Política de Privacidade, entre em contacto connosco através do e-mail:  
+📧 suporte.studiofa@gmail.com
